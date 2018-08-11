@@ -3,6 +3,8 @@
 
 A script to score CSV files via LogicPlum's prediction API.
 
+[![Coverage Status](https://coveralls.io/repos/github/LogicPlum/batch-scoring/badge.png?branch=master)](https://coveralls.io/github/LogicPlum/batch-scoring?branch=master)
+
 .. image:: https://coveralls.io/repos/github/LogicPlum/batch-scoring/badge.svg?branch=master
     :target: https://coveralls.io/github/LogicPlum/batch-scoring?branch=master
 
