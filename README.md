@@ -3,14 +3,14 @@
 
 A script to score CSV files via LogicPlum's prediction API.
 
-.. image:: https://coveralls.io/repos/github/logicplum/batch-scoring/badge.svg?branch=master
-    :target: https://coveralls.io/github/logicplum/batch-scoring?branch=master
+.. image:: https://coveralls.io/repos/github/LogicPlum/batch-scoring/badge.svg?branch=master
+    :target: https://coveralls.io/github/LogicPlum/batch-scoring?branch=master
 
-.. image:: https://travis-ci.org/logicplum/batch-scoring.svg?branch=master
-    :target: https://travis-ci.org/logicplum/batch-scoring#master
+.. image:: https://travis-ci.org/LogicPlum/batch-scoring.svg?branch=master
+    :target: https://travis-ci.org/LogicPlum/batch-scoring#master
 
-.. image:: https://badge.fury.io/py/logicplum_batch_scoring.svg
-    :target: https://pypi.python.org/pypi/logicplum_batch_scoring
+.. image:: https://badge.fury.io/py/LogicPlum_batch_scoring.svg
+    :target: https://pypi.python.org/pypi/LogicPlum_batch_scoring
 
 
 # Version Compatibility
